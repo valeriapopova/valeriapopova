@@ -10,6 +10,7 @@ Python, Django, ORM, Flask, Asyncio, SQL, PostgreSQL, Git, REST, Docker, Docker-
 - Создание веб-сервисов на Django. [Домашние работы по курсу Django](https://github.com/valeriapopova/djhw)
 - Flask [REST API для сайта объявлений](https://github.com/valeriapopova/flask_hw)
 ### Сертификаты Нетологии
+- Python-Developer https://github.com/valeriapopova/valeriapopova/blob/main/certificate-diplom.pdf
 - Python Basic https://github.com/valeriapopova/valeriapopova/blob/main/certificate-basicpy.pdf
 - GIT https://github.com/valeriapopova/valeriapopova/blob/main/certificate-git.pdf
 - Django https://github.com/valeriapopova/valeriapopova/blob/main/certificate-django.pdf
