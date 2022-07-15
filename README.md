@@ -1,7 +1,7 @@
 ### Привет!👋
 Я <b>Валерия Попова</b>, backend-разработчик на python.
 ### Мой стек
-Python, Django, ORM, Flask, Asyncio, SQL, PostgreSQL, Git, REST, Docker, Docker-compose, Celery, Redis
+Python, Django, ORM, Flask, Asyncio, SQL, PostgreSQL, sqlalchemy, Git, REST, Docker, Docker-compose, Celery, Redis
 ### Вот, что я умею
 - [Резервное копирование](https://github.com/valeriapopova/coursework_apivk)
 - [Сервис знакомств](https://github.com/valeriapopova/vkinder)
