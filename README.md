@@ -3,10 +3,10 @@
 ### Мой стек
 Python, Django, ORM, Flask, Asyncio, SQL, PostgreSQL, sqlalchemy, Git, REST, Docker, Docker-compose, Celery, Redis
 ### Вот, что я умею
-- [Резервное копирование](https://github.com/valeriapopova/coursework_apivk)
-- [Сервис знакомств](https://github.com/valeriapopova/vkinder)
-- [Backend приложения для автоматизации закупок в розничной сети](https://github.com/valeriapopova/final_diplom)
-- [Работа с ПО для автоматизации развёртывания и управления приложениями — Docker](https://github.com/valeriapopova/djhw/tree/video/3.2-crud)
+- Резервное [копирование](https://github.com/valeriapopova/coursework_apivk)
+- [Сервис](https://github.com/valeriapopova/vkinder) знакомств
+- [Backend](https://github.com/valeriapopova/final_diplom) приложения для автоматизации закупок в розничной сети
+- Работа с ПО для автоматизации развёртывания и управления приложениями — [Docker](https://github.com/valeriapopova/djhw/tree/video/3.2-crud)
 - Создание веб-сервисов на Django. [Домашние работы по курсу Django](https://github.com/valeriapopova/djhw)
 - Flask [REST API для сайта объявлений](https://github.com/valeriapopova/flask_hw)
 ### Сертификаты Нетологии
